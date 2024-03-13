@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.exe
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.deps.json
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.runtimeconfig.json
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.runtimeconfig.dev.json
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.dll
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\bin\Debug\net5.0\ProblemSolvingLeetCode.pdb
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.AssemblyInfo.cs
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.dll
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\refint\ProblemSolvingLeetCode.dll
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.pdb
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ProblemSolvingLeetCode.genruntimeconfig.cache
+E:\Repos\Projects\C#\ProblemSolvingLeetCode Solution\ProblemSolvingLeetCode\obj\Debug\net5.0\ref\ProblemSolvingLeetCode.dll
