@@ -7,4 +7,4 @@
   Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview. 
   Please feel free to reference and STAR to support this repo, thank you!
 </p>
-![0_zuhXdNAIUoxEem4-](https://github.com/HebaAdelAhmed/leetcode-CSharp/assets/124118220/c5ff5eed-2875-4236-a217-b184886db933)
+<img src="https://github.com/HebaAdelAhmed/leetcode-CSharp/assets/124118220/c5ff5eed-2875-4236-a217-b184886db933"/>
